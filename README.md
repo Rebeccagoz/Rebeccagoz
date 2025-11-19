@@ -16,18 +16,17 @@ Je suis **développeuse front-end** 💻 et actuellement en **formation back-end
 
 ## 📂 Projets
 
-### 1. [Projet n°1](https://brg-db.fr/) 🌐  
+### 1. [Projet n°1](https://brg-db.fr/) 🌐: brg-db.fr
 Site vitrine pour présenter une entreprise de travaux, **responsive et moderne**.
 
-### 2. [Projet n°2](https://rebeccagoz.github.io/mon-projet-pro/) 💡  
+### 2. [Projet n°2](https://rebeccagoz.github.io/mon-projet-pro/) 💡 : rebeccagoz.github.io/mon-projet-pro
 Site fictif pratique de fin de formation sur **JavaScript, formulaires et animations CSS**.
-
-*(Ajoute ici tous les projets que tu veux montrer)*
 
 ---
 
 ## 📫 Me contacter
-
+- [Mon profil GitHub](https://github.com/Rebeccagoz)  
+- [LinkedIn](www.linkedin.com/in/rebecca-tordjman-67693b197)  
 
 
 <!--
