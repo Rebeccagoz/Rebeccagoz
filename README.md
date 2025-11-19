@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Rebecca !
 
-Je suis **développeuse front-end** et actuellement en **formation back-end** pour devenir développeuse web full-stack. Après un parcours dans la **santé digitale et la nutrition**👩‍⚕️, je me reconvertis dans le développement web et je suis très motivée pour créer des sites modernes et accessibles ✨.
+Je suis **développeuse front-end** et actuellement en **formation back-end** pour devenir développeuse web full-stack. Après un parcours dans la **santé digitale et la nutrition**👩‍⚕️, je me reconvertis dans le développement web, je suis très motivée pour créer des sites modernes et accessibles ✨.
 
 ---
 
