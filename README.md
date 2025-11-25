@@ -26,7 +26,7 @@ Site fictif pratique de fin de formation sur JavaScript, formulaires et animatio
 
 ## 📫 Me contacter
 - [Mon profil GitHub](https://github.com/Rebeccagoz)  
-- [Mon profil LinkedIn]([www.linkedin.com/in/rebecca-tordjman-67693b197](https://www.linkedin.com/in/rebecca-tordjman-67693b197/))  
+- [Mon profil LinkedIn](https://www.linkedin.com/in/rebecca-tordjman-67693b197/)  
 
 
 <!--
