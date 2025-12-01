@@ -17,7 +17,7 @@ Je suis **développeuse front-end** et actuellement en **formation back-end** po
 ## 📂 Projets
 
 ### 1. [Mon Portfolio](https://portfoliorebecca.netlify.app/)
-Mon Portfolio présentant mon parcours et mes projets.
+Découvrez mes réalisations web et mon parcours de développeuse à travers mon portfolio interactif.
  
 ### 2. [Projet n°1](https://brg-db.fr/) 🌐: brg-db.fr
 Site vitrine pour présenter une entreprise de travaux, responsive et moderne.
