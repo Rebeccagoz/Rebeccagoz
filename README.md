@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Rebecca !
+ # 👋 Bonjour, je suis Rebecca !
 
 Je suis **développeuse front-end** et actuellement en **formation back-end** pour devenir développeuse web full-stack. Après un parcours dans la **santé digitale et la nutrition**👩‍⚕️, je me reconvertis dans le développement Web. Je suis très motivée pour créer des sites modernes et accessibles ✨.
 
@@ -16,10 +16,13 @@ Je suis **développeuse front-end** et actuellement en **formation back-end** po
 
 ## 📂 Projets
 
-### 1. [Projet n°1](https://brg-db.fr/) 🌐: brg-db.fr
+### 1. [Mon Portfolio](https://portfoliorebecca.netlify.app/)
+Mon Portfolio présentant mon parcours et mes projets.
+ 
+### 2. [Projet n°1](https://brg-db.fr/) 🌐: brg-db.fr
 Site vitrine pour présenter une entreprise de travaux, responsive et moderne.
 
-### 2. [Projet n°2](https://rebeccagoz.github.io/mon-projet-pro/) 💡 : rebeccagoz.github.io/mon-projet-pro
+### 3. [Projet n°2](https://rebeccagoz.github.io/mon-projet-pro/) 💡 : rebeccagoz.github.io/mon-projet-pro
 Site fictif pratique de fin de formation sur JavaScript, formulaires et animations CSS.
 
 ---
