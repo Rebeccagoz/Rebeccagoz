@@ -6,7 +6,7 @@ Je suis **développeuse front-end** et actuellement en **formation back-end** po
 
 ## 💻 Compétences
 
-- **HTML / CSS / JavaScript** 📄  
+- **HTML / CSS / JavaScript / WordPress** 📄  
 - **Responsive Design & Media Queries** 📱  
 - **Git / GitHub** pour versionner et partager mes projets 🗂️  
 - Création de **sites web interactifs et interfaces utilisateurs** 🎨  
