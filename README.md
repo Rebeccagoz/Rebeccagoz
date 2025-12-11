@@ -25,7 +25,7 @@ Site vitrine version WordPress responsive pour une entreprise de travaux, modern
 ### 3. [Projet pratique JS](https://rebeccagoz.github.io/mon-projet-pro/) 💡
 Site fictif réalisé en fin de formation : formulaires, animations CSS et interactivité JavaScript.
 
-### 4. [brg-db.fr](https://brg-db.netlify.app/) - version HTML/CSS/JS 🌐
+### 4. [brg-db.fr](https://brg-db.netlify.app/) 🌐
 Site vitrine version HTML/CSS/JS responsive pour une entreprise de travaux.
 
 ---
