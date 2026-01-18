@@ -36,7 +36,7 @@ Site vitrine version HTML/CSS/JS responsive pour une entreprise de travaux.
 
 ## 📫 Me contacter
 * 💼 **LinkedIn :** [Rebecca Gozlan](https://www.linkedin.com/in/rebecca-gozlan-67693b197)
-* 🌐 **Portfolio :** (https://portfoliorebecca.netlify.app/)
+* 🌐 **Portfolio :** [(https://portfoliorebecca.netlify.app/)]
 * 📧 **Disponibilité :** Ouverte aux opportunités en développement Web et missions IA techniques.  
 
 
