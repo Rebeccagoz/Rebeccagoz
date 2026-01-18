@@ -1,16 +1,20 @@
  # 👋 Bonjour, je suis Rebecca !
 
-Je suis **développeuse front-end** et actuellement en **formation back-end** pour devenir développeuse web full-stack. Après un parcours dans la **santé digitale et la nutrition**👩‍⚕️, je me reconvertis dans le développement Web. Je suis très motivée pour créer des sites modernes et accessibles ✨.
+**Développeuse Web Front-End** en transition vers le **Full-Stack**, je combine ma rigueur issue de mon parcours en santé digitale avec une passion pour le code propre et les solutions innovantes.
 
 ---
 
 ## 💻 Compétences
 
-- **HTML / CSS / JavaScript / WordPress** 📄  
-- **Responsive Design & Media Queries** 📱  
-- **Git / GitHub** pour versionner et partager mes projets 🗂️  
-- Création de **sites web interactifs et interfaces utilisateurs** 🎨  
-- Familiarité avec **frameworks et bibliothèques JS** ⚡
+* **Front-End :** HTML5, CSS3, JavaScript (ES6+), Responsive Design
+* **CMS :** WordPress (Architecture & Personnalisation)
+* **Back-End (En cours) :** PHP, SQL, Architecture d'API REST
+* **Outils & Workflow :** Git, GitHub, VS Code
+
+---
+
+### 🤖 Expertise IA (AI Specialist)
+En parallèle du développement, je collabore sur des projets de pointe en **Intelligence Artificielle** (Entraînement de LLM, QA technique, Data Processing). Cette expertise me permet d'intégrer les enjeux de l'IA dans mes projets web.
 
 ---
 
@@ -31,8 +35,9 @@ Site vitrine version HTML/CSS/JS responsive pour une entreprise de travaux.
 ---
 
 ## 📫 Me contacter
-- [Mon profil GitHub](https://github.com/Rebeccagoz)  
-- [Mon profil LinkedIn](https://www.linkedin.com/in/rebecca-gozlan-67693b197)  
+* 💼 **LinkedIn :** [Rebecca Gozlan](https://www.linkedin.com/in/rebecca-gozlan-67693b197)
+* 🌐 **Portfolio :** (https://portfoliorebecca.netlify.app/)
+* 📧 **Disponibilité :** Ouverte aux opportunités en développement Web et missions IA techniques.  
 
 
 <!--
