@@ -32,7 +32,7 @@ Site vitrine version HTML/CSS/JS responsive pour une entreprise de travaux.
 
 ## 📫 Me contacter
 - [Mon profil GitHub](https://github.com/Rebeccagoz)  
-- [Mon profil LinkedIn](https://www.linkedin.com/in/rebecca-tordjman-67693b197/)  
+- [Mon profil LinkedIn](https://www.linkedin.com/in/rebecca-gozlan-67693b197)  
 
 
 <!--
